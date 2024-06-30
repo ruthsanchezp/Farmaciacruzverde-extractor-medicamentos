@@ -1,4 +1,4 @@
-# Extractor productos de de CV
+# Extractor productos de farmacia
 
 Este proyecto es un spider de Scrapy para extraer información de productos del sitio web de Cruz Verde, específicamente centrado en medicamentos.
 
