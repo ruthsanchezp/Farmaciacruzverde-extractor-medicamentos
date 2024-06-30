@@ -1,4 +1,4 @@
-# Scraper de Cruz Verde
+# Extractor productos de de Cruz Verde CL
 
 Este proyecto es un spider de Scrapy para extraer información de productos del sitio web de Cruz Verde, específicamente centrado en medicamentos.
 
